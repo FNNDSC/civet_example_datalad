@@ -2,3 +2,6 @@ This is a Datalad repository containing example output of CIVET.
 
 https://www.bic.mni.mcgill.ca/ServicesSoftware/CIVET
 
+Download this dataset by installing datalad, then run
+
+    datalad install --get-data https://github.com/FNNDSC/civet_example_datalad.git civet_example
